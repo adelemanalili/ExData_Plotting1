@@ -1,13 +1,5 @@
-## Introduction
+## Introduction   
 
-This is my repository for the Coursera's course "Exploratory Data Analysis". Currently there are 8 files for the Course Project 1: 4 png pictures and 4 R scripts to generate each.
-  
-  To run this script you need to to the following:
- -* Download the R scripts
- -* Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
- -* Extract the data into ./Data subdirectory
- +* Download the scripts (plot1.R, plot2.R, plot3.R, plot4.R) to some directory;
- +* Download the data from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip;
- +* Extract the data into ./Data subdirectory;
-  * Run the scripts
+The object of this assignment was to reproduce plots provided in the assignment. The overall goal is to examine how household energy usage varies during 2007-02-01 and 2007-02-02. The plots were constructed using the base plotting system.
 
+The data was retrieved from this source: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
